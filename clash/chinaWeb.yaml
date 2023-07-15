@@ -9,6 +9,7 @@
 # IP-CIDR6: 4
 # TOTAL: 3642
 payload:
+  - DOMAIN-SUFFIX,cn
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,download.jetbrains.com
   - DOMAIN,ip.bjango.com
