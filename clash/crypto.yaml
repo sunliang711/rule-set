@@ -16,3 +16,6 @@ payload:
   - DOMAIN-SUFFIX,coinex.com
   - DOMAIN-SUFFIX,paxful.com
   - DOMAIN-SUFFIX,walletconnect.org
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,bntrace.com
