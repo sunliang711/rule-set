@@ -21,3 +21,5 @@ payload:
   - DOMAIN-SUFFIX,binance.info
   - DOMAIN-SUFFIX,binancecnt.com
   - DOMAIN-SUFFIX,bntrace.com
+  - DOMAIN-SUFFIX,gateio.ws
+  - DOMAIN-SUFFIX,gate.io
