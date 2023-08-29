@@ -24,5 +24,7 @@ payload:
   - DOMAIN-SUFFIX,gateio.ws
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-SUFFIX,sui.io
+  - DOMAIN-SUFFIX,solana.com
+  - DOMAIN-SUFFIX,etherscan.io
   - DOMAIN-SUFFIX,cardano.org
   - DOMAIN-SUFFIX,phantom.app
