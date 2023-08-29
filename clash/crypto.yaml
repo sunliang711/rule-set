@@ -23,3 +23,6 @@ payload:
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,gateio.ws
   - DOMAIN-SUFFIX,gate.io
+  - DOMAIN-SUFFIX,sui.io
+  - DOMAIN-SUFFIX,cardano.org
+  - DOMAIN-SUFFIX,phantom.app
