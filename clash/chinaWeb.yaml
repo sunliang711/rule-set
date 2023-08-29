@@ -14,7 +14,6 @@ payload:
   - DOMAIN,download.jetbrains.com
   - DOMAIN,ip.bjango.com
   - DOMAIN,mtalk.google.com
-  - DOMAIN,officecdn-microsoft-com.akamaized.net
   - DOMAIN,speedtest.macpaw.com
   - DOMAIN-SUFFIX,21cn.com
   - DOMAIN-SUFFIX,343480.com
@@ -104,7 +103,6 @@ payload:
   - DOMAIN-SUFFIX,meixincdn.com
   - DOMAIN-SUFFIX,mgtv.com
   - DOMAIN-SUFFIX,mi-img.com
-  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,miui.com
   - DOMAIN-SUFFIX,mobike.com
   - DOMAIN-SUFFIX,msecnd.net
