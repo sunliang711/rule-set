@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxstatic.com
+IP-CIDR,199.96.56.0/21
