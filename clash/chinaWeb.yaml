@@ -252,3 +252,5 @@ payload:
   - DOMAIN-SUFFIX,douyuscdn.com
   - DOMAIN-SUFFIX,douyutv.com
   - DOMAIN-SUFFIX,huya.com
+
+  - DOMAIN-SUFFIX,aliyuncs.com
