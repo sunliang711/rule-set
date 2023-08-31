@@ -255,3 +255,7 @@ payload:
   - DOMAIN-SUFFIX,aliyuncs.com
 
   - DOMAIN-SUFFIX,yingwangtech.net
+  - DOMAIN-SUFFIX,mmstat.com
+  - DOMAIN-SUFFIX,aliapp.org
+  - DOMAIN-SUFFIX,alipayobjects.com
+  - DOMAIN-SUFFIX,umeng.com

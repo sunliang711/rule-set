@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,toutiaovod.com
   - DOMAIN-SUFFIX,toutiaoimg.com
   - DOMAIN-SUFFIX,toutiaocdn.com
+  - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,bdurl.net
   - DOMAIN-SUFFIX,bdxiguaimg.com
   - DOMAIN-SUFFIX,bdxiguastatic.com
