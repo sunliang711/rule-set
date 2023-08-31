@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,ifconfig.me
   - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,whatismyip.com
   - DOMAIN-SUFFIX,whatismyipaddress.com
   - DOMAIN-SUFFIX,ipaddress.my
   - DOMAIN-SUFFIX,myip.com
