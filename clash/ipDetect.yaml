@@ -3,7 +3,9 @@ payload:
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,whatismyip.com
   - DOMAIN-SUFFIX,whatismyipaddress.com
+  - DOMAIN-SUFFIX,whatismyipaddress.info
   - DOMAIN-SUFFIX,ipaddress.my
   - DOMAIN-SUFFIX,myip.com
   - DOMAIN-SUFFIX,iplocation.net
+  - DOMAIN-KEYWORD,whatismyipaddress
 
