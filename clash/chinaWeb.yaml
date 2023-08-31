@@ -31,10 +31,21 @@ payload:
   # Tencent
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,weixin.com
+  - DOMAIN-SUFFIX,qcloud.com
   # MeiTuan
   - DOMAIN-SUFFIX,meituan.net
+  - DOMAIN-SUFFIX,dianping.com
+  - DOMAIN-SUFFIX,sankuai.com
+  - DOMAIN-SUFFIX,meituan.com
+  - DOMAIN-SUFFIX,dpfile.com
+
+  - DOMAIN-SUFFIX,httpdns.pro
+
   # ELeme
   - DOMAIN-SUFFIX,ele.me
+  - DOMAIN-SUFFIX,elemecdn.com
+  
+  - DOMAIN-SUFFIX,hzshudian.com
   # Youku
   - DOMAIN-SUFFIX,youku.com
   - DOMAIN-SUFFIX,ykimg.com
@@ -49,6 +60,10 @@ payload:
   - DOMAIN-SUFFIX,sogou.com
   - DOMAIN-SUFFIX,sogo.com
   - DOMAIN-SUFFIX,sogoucdn.com
+
+ # SMZDM
+  - DOMAIN-SUFFIX,smzdm.com
+  - DOMAIN-SUFFIX,zdmimg.com
 
   - DOMAIN-SUFFIX,cn
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -164,7 +179,6 @@ payload:
   - DOMAIN-SUFFIX,redacted.ch
   - DOMAIN-SUFFIX,ronghub.com
   - DOMAIN-SUFFIX,ruguoapp.com
-  - DOMAIN-SUFFIX,smzdm.com
   - DOMAIN-SUFFIX,snapdrop.net
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,springsunday.net
@@ -192,7 +206,6 @@ payload:
   - DOMAIN-SUFFIX,xiami.com
   - DOMAIN-SUFFIX,xiami.net
   - DOMAIN-SUFFIX,xiaomi.com
-  - DOMAIN-SUFFIX,xmcdn.com
   - DOMAIN-SUFFIX,yangkeduo.com
   - DOMAIN-SUFFIX,ydstatic.com
   - DOMAIN-SUFFIX,zhangzishi.cc
@@ -206,6 +219,10 @@ payload:
   - DOMAIN-SUFFIX,zmzapi.net
   - DOMAIN-SUFFIX,zmzfile.com
   - DOMAIN-SUFFIX,autonavi.com
+
+  # 喜马拉雅
+  - DOMAIN-SUFFIX,xmcdn.com
+  - DOMAIN-SUFFIX,ximalaya.com
 
   - DOMAIN-SUFFIX,qiniu.com
   - DOMAIN-SUFFIX,qiniudn.com
