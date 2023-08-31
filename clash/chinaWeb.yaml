@@ -9,12 +9,52 @@
 # IP-CIDR6: 4
 # TOTAL: 3642
 payload:
+  # Alibaba
+  - DOMAIN-SUFFIX,alibabausercontent.com
+  - DOMAIN-SUFFIX,taobao.com
+  - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-SUFFIX,aliapp.org
+  - DOMAIN-SUFFIX,alipayobjects.com
+  - DOMAIN-SUFFIX,alibaba.com
+  - DOMAIN-SUFFIX,alicdn.com
+  - DOMAIN-SUFFIX,alikunlun.com
+  - DOMAIN-SUFFIX,alipay.com
+  - DOMAIN-SUFFIX,taobao.com
+  # BaiDu
+  - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,baidubcr.com
+  - DOMAIN-SUFFIX,bdstatic.com
+  # JD
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,jd.hk
+  - DOMAIN-SUFFIX,360buyimg.com
+  # Tencent
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,weixin.com
+  # MeiTuan
+  - DOMAIN-SUFFIX,meituan.net
+  # ELeme
+  - DOMAIN-SUFFIX,ele.me
+  # Youku
+  - DOMAIN-SUFFIX,youku.com
+  - DOMAIN-SUFFIX,ykimg.com
+  # Netease
+  - DOMAIN-SUFFIX,youdao.com
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,126.com
+  - DOMAIN-SUFFIX,126.net
+  - DOMAIN-SUFFIX,127.net
+  - DOMAIN-SUFFIX,163yun.com
+  # SoGou
+  - DOMAIN-SUFFIX,sogou.com
+  - DOMAIN-SUFFIX,sogo.com
+  - DOMAIN-SUFFIX,sogoucdn.com
+
   - DOMAIN-SUFFIX,cn
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,download.jetbrains.com
   - DOMAIN,ip.bjango.com
   - DOMAIN,mtalk.google.com
-  - DOMAIN,speedtest.macpaw.com
   - DOMAIN-SUFFIX,21cn.com
   - DOMAIN-SUFFIX,343480.com
   - DOMAIN-SUFFIX,71.am.com
@@ -22,10 +62,6 @@ payload:
   - DOMAIN-SUFFIX,acgvideo.com
   - DOMAIN-SUFFIX,aixifan.com
   - DOMAIN-SUFFIX,akadns.net
-  - DOMAIN-SUFFIX,alibaba.com
-  - DOMAIN-SUFFIX,alicdn.com
-  - DOMAIN-SUFFIX,alikunlun.com
-  - DOMAIN-SUFFIX,alipay.com
   - DOMAIN-SUFFIX,amap.com
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,baduziyuan.com
@@ -47,7 +83,6 @@ payload:
   - DOMAIN-SUFFIX,clngaa.com
   - DOMAIN-SUFFIX,cmbchina.com
   - DOMAIN-SUFFIX,cmbimg.com
-  - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,com-hs-hkdy.com
   - DOMAIN-SUFFIX,ctrip.com
   - DOMAIN-SUFFIX,czybjz.com
@@ -56,7 +91,6 @@ payload:
   - DOMAIN-SUFFIX,dingtalk.com
   - DOMAIN-SUFFIX,douban.com
   - DOMAIN-SUFFIX,doubanio.com
-  - DOMAIN-SUFFIX,douyu.com
   - DOMAIN-SUFFIX,duokan.com
   - DOMAIN-SUFFIX,dxycdn.com
   - DOMAIN-SUFFIX,eastmoney.com
@@ -136,7 +170,6 @@ payload:
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,sspai.com
   - DOMAIN-SUFFIX,taichi-maker.com
-  - DOMAIN-SUFFIX,taobao.com
   - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,test-ipv6.com
@@ -172,11 +205,7 @@ payload:
   - DOMAIN-SUFFIX,zmzapi.com
   - DOMAIN-SUFFIX,zmzapi.net
   - DOMAIN-SUFFIX,zmzfile.com
-  - IP-CIDR,10.0.0.0/8
-  - IP-CIDR,100.64.0.0/10
-  - IP-CIDR,127.0.0.0/8
-  - IP-CIDR,172.16.0.0/12
-  - IP-CIDR,192.168.0.0/16
+  - DOMAIN-SUFFIX,autonavi.com
 
   - DOMAIN-SUFFIX,qiniu.com
   - DOMAIN-SUFFIX,qiniudn.com
@@ -186,42 +215,8 @@ payload:
   - DOMAIN-SUFFIX,qiniucdn.com
   - DOMAIN-SUFFIX,qiniudns.com
 
-  # BaiDu
-  - DOMAIN-SUFFIX,baidu.com
-  - DOMAIN-SUFFIX,baidubcr.com
-  - DOMAIN-SUFFIX,bdstatic.com
-  # Alibaba
-  - DOMAIN-SUFFIX,alipay.com
-  - DOMAIN-SUFFIX,alibaba.com
-  - DOMAIN-SUFFIX,taobao.com
-
-  # Tencent
-  - DOMAIN-SUFFIX,qq.com
-  - DOMAIN-SUFFIX,weixin.com
-  # MeiTuan
-  - DOMAIN-SUFFIX,meituan.net
-  # ELeme
-  - DOMAIN-SUFFIX,ele.me
-  # Youku
-  - DOMAIN-SUFFIX,youku.com
-  - DOMAIN-SUFFIX,ykimg.com
-  # Netease
-  - DOMAIN-SUFFIX,youdao.com
-  - DOMAIN-SUFFIX,163.com
-  - DOMAIN-SUFFIX,126.com
-  - DOMAIN-SUFFIX,126.net
-  - DOMAIN-SUFFIX,127.net
-  - DOMAIN-SUFFIX,163yun.com
-  # SoGou
-  - DOMAIN-SUFFIX,sogou.com
-  - DOMAIN-SUFFIX,sogo.com
-  - DOMAIN-SUFFIX,sogoucdn.com
   # ByteDance
   # GoogleCn
-  # JD
-  - DOMAIN-SUFFIX,jd.com
-  - DOMAIN-SUFFIX,jd.hk
-  - DOMAIN-SUFFIX,360buyimg.com
   # HuaWei
   - DOMAIN-SUFFIX,huawei.com
   # XiaoMi
@@ -252,10 +247,6 @@ payload:
   - DOMAIN-SUFFIX,douyutv.com
   - DOMAIN-SUFFIX,huya.com
 
-  - DOMAIN-SUFFIX,aliyuncs.com
-
   - DOMAIN-SUFFIX,yingwangtech.net
   - DOMAIN-SUFFIX,mmstat.com
-  - DOMAIN-SUFFIX,aliapp.org
-  - DOMAIN-SUFFIX,alipayobjects.com
   - DOMAIN-SUFFIX,umeng.com
