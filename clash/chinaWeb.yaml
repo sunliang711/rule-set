@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,alibabausercontent.com
   - DOMAIN-SUFFIX,taobao.com
   - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-SUFFIX,aliapp.org
   - DOMAIN-SUFFIX,alipayobjects.com
   - DOMAIN-SUFFIX,alibaba.com
@@ -28,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,jd.com
   - DOMAIN-SUFFIX,jd.hk
   - DOMAIN-SUFFIX,360buyimg.com
+  - DOMAIN-SUFFIX,jdpay.com
   # Tencent
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,weixin.com
@@ -44,7 +46,7 @@ payload:
   # ELeme
   - DOMAIN-SUFFIX,ele.me
   - DOMAIN-SUFFIX,elemecdn.com
-  
+
   - DOMAIN-SUFFIX,hzshudian.com
   # Youku
   - DOMAIN-SUFFIX,youku.com
