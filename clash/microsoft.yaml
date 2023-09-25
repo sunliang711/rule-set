@@ -680,15 +680,9 @@ payload:
   - DOMAIN-SUFFIX,xbx.lv
   - DOMAIN-SUFFIX,yammer.com
   - DOMAIN-SUFFIX,yammerusercontent.com
-
 # https://answers.microsoft.com/en-us/msteams/forum/all/microsoft-teams-ipports/b21fb0e0-1226-4bcf-b527-92c810bc7a87
 # teams messaging
-- IP-CIDR,13.107.64.0/18
-- IP-CIDR,52.112.0.0/14
-- IP-CIDR,52.120.0.0/14
-- IP-CIDR,52.238.119.141
-
-# teams media
-- IP-CIDR,13.107.64.0/18
-- IP-CIDR,52.112.0.0/14
-- IP-CIDR,52.120.0.0/14
+  - IP-CIDR,13.107.64.0/18
+  - IP-CIDR,52.112.0.0/14
+  - IP-CIDR,52.120.0.0/14
+  - IP-CIDR,52.238.119.141/32
