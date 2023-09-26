@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,zoom.us
+  - IP-CIDR,170.114.0.0/16
