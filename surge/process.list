@@ -11,3 +11,4 @@ PROCESS-NAME, WebTorrent, Direct
 PROCESS-NAME, WebTorrent Helper, Direct
 PROCESS-NAME, clash, Direct
 PROCESS-NAME, xray, Direct
+PROCESS-NAME, qBittorrent, Direct
