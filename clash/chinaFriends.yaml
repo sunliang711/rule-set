@@ -1,6 +1,3 @@
 payload:
 
-  # zoom
-  # https://support.zoom.us/hc/en-us/articles/201362683-Zoom-network-firewall-or-proxy-server-settings
-  - DOMAIN-SUFFIX,zoom.us
   - IP-CIDR,170.114.0.0/16
