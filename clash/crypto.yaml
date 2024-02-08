@@ -11,18 +11,15 @@ payload:
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,dogecoin.com
   - DOMAIN-SUFFIX,kraken.com
+  # okex
   - DOMAIN-SUFFIX,okex.com
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,okxcoin.com
   - DOMAIN-KEYWORD,okx-dns
+
   - DOMAIN-SUFFIX,coinex.com
   - DOMAIN-SUFFIX,paxful.com
   - DOMAIN-SUFFIX,walletconnect.org
-  - DOMAIN-SUFFIX,bnbstatic.com
-  - DOMAIN-SUFFIX,binance.com
-  - DOMAIN-SUFFIX,binance.info
-  - DOMAIN-SUFFIX,binancecnt.com
-  - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,gateio.ws
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-SUFFIX,sui.io
