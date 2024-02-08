@@ -1,4 +1,16 @@
+# NAME: China
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-04-11 02:11:26
+# DOMAIN: 19
+# DOMAIN-KEYWORD: 9
+# DOMAIN-SUFFIX: 3600
+# IP-CIDR: 10
+# IP-CIDR6: 4
+# TOTAL: 3642
+# payload:
 DOMAIN-SUFFIX,cn
+# 163
 DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,163.com
@@ -8,6 +20,7 @@ DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,netease.im
+# ByteDance
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,toutiaostatic.com
@@ -29,6 +42,7 @@ DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
+# Tencent
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,tencent.com
@@ -41,12 +55,14 @@ DOMAIN-SUFFIX,cdntips.net
 DOMAIN-SUFFIX,tfogc.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,qcloud.com
+# Weibo
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,sinajs.cn
+# Alibaba
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncs.com
@@ -61,37 +77,50 @@ DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,effirst.com
 DOMAIN-SUFFIX,mmstat.com
+# JD
 DOMAIN-SUFFIX,  jd.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,jdpay.com
+# SMZDM
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,zdmimg.com
+# manman
 DOMAIN-SUFFIX,manmanbuy.com
+# MeiTuan
 DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,httpdns.pro
+# ele me
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,dingtalk.com
+# he ma
 DOMAIN-SUFFIX,hzshudian.com
+# Dianping
 DOMAIN-SUFFIX,dianping.com
+# 189
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,networkbench.com
 DOMAIN-SUFFIX,jpush.cn
+# GaoDe
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
+# Ximalaya
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
+# XiaoYuZhou
 DOMAIN-SUFFIX,xiaoyuzhoufm.com
 DOMAIN-SUFFIX,cpatrk.net
 DOMAIN-SUFFIX,qnqcdn.net
 DOMAIN-SUFFIX,codefuture.top
 DOMAIN-SUFFIX,xyzcdn.net
 DOMAIN-SUFFIX,midway.run
+# Youku
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,ykimg.com
+# BaiDu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,baidupcs.com
@@ -99,6 +128,7 @@ DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,bcebos.com
+# Qi Niu
 DOMAIN-SUFFIX,qiniu.com
 DOMAIN-SUFFIX,qiniudn.com
 DOMAIN-SUFFIX,qiniup.com
@@ -106,23 +136,29 @@ DOMAIN-SUFFIX,qnsdk.com
 DOMAIN-SUFFIX,qnssl.com
 DOMAIN-SUFFIX,qiniucdn.com
 DOMAIN-SUFFIX,qiniudns.com
+# XunLei
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,xunlei.com
+# ZhiHu
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,nio.com
 DOMAIN-SUFFIX,aflink.com
+# SouGou
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
+# Souhu
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,optaim.com
+# Bilibili
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,hdslb.com
+# iqiyi
 DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,71edge.com
 DOMAIN-SUFFIX,iqiyi.com
@@ -132,24 +168,30 @@ DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,qy.net
+# DouYu
 DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyutv.com
 DOMAIN-SUFFIX,douyuscdn.com
+# HuYa
 DOMAIN-SUFFIX,huya.com
+# XiaoHongShu
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xhscdn.com
+# DiDi
 DOMAIN-SUFFIX,didistatic.com
 DOMAIN-SUFFIX,didilift.com
 DOMAIN-SUFFIX,xiaojukeyi.com
 DOMAIN-SUFFIX,didi.cn
 DOMAIN-SUFFIX,udache.com
 DOMAIN-SUFFIX,diditaxi.com.cn
+# PDD
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,pinduoduo.net
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,yangkeduo.com
+# Other
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,ddxq.mobi
 DOMAIN-SUFFIX,volces.com

@@ -1,3 +1,14 @@
+# NAME: Apple
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-04-07 14:47:38
+# DOMAIN: 7
+# DOMAIN-KEYWORD: 5
+# DOMAIN-SUFFIX: 1544
+# IP-CIDR: 10
+# PROCESS-NAME: 6
+# TOTAL: 1572
+# payload:
 DOMAIN,testflight.apple.com
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
@@ -10,6 +21,7 @@ DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,mzstatic.com
+# icloud
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com

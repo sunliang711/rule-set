@@ -1,9 +1,9 @@
 payload:
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,gettoby.com
-  # StreamDeck
+# StreamDeck
   - DOMAIN-SUFFIX,tproxy.opendle.com
 
-  # zoom
-  # https://support.zoom.us/hc/en-us/articles/201362683-Zoom-network-firewall-or-proxy-server-settings
+# zoom
+# https://support.zoom.us/hc/en-us/articles/201362683-Zoom-network-firewall-or-proxy-server-settings
   - DOMAIN-SUFFIX,zoom.us
