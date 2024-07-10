@@ -9,8 +9,8 @@
 # IP-CIDR6: 4
 # TOTAL: 3642
 payload:
-
   - DOMAIN-SUFFIX,cn
+  - DOMAIN-SUFFIX,segment.io
 
   # 163
   - DOMAIN-SUFFIX,youdao.com
@@ -385,4 +385,3 @@ payload:
   - DOMAIN-SUFFIX,zmzfile.com
   - DOMAIN-SUFFIX,autonavi.com
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
-
