@@ -1,0 +1,36 @@
+name: Deploy to Cloudflare R2
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Configure AWS CLI for R2
+        run: |
+          aws configure set aws_access_key_id ${{ secrets.R2_ACCESS_KEY_ID }}
+          aws configure set aws_secret_access_key ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          aws configure set region auto
+
+      - name: Sync multiple directories to R2
+        env:
+          ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+        run: |
+          # 定义要上传的目录数组
+          directories=("clash" "surge")
+
+          for dir in "${directories[@]}"; do
+            if [ -d "./$dir" ]; then
+              echo "Syncing $dir to R2..."
+              aws s3 sync ./$dir s3://rules/$dir/ \
+                --endpoint-url $ENDPOINT_URL \
+                --delete
+            else
+              echo "Directory $dir not found, skipping..."
+            fi
+          done
