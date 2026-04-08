@@ -3,6 +3,7 @@
 
 # 两个脚本
 convert.sh的优点是可以保留注释,但是生成的surge规则中要求注释要顶格写!
+convert.py 现在也能保留注释了,但是生成的surge规则中要求注释要顶格写!
 
 ## convert.py
 pip3 install pyyaml

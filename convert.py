@@ -4,7 +4,7 @@
 import os
 import argparse
 import logging
-import yaml
+import re
 
 
 def setup_log(logfile, log_level):
@@ -14,17 +14,23 @@ def setup_log(logfile, log_level):
 
     logging.basicConfig(filename=logfile, level=LOG_LEVEL.get(log_level, logging.ERROR), format=LOG_FORMAT, datefmt=DATE_FORMAT)
 
+def convert_content(content):
+    # 保持与 convert.sh 一致，直接按文本规则转换，避免 YAML 解析丢失注释
+    content = re.sub(r'^payload', '# payload', content, flags=re.MULTILINE)
+    content = re.sub(r'^\s+-\s+(.+)', r'\1', content, flags=re.MULTILINE)
+    content = re.sub(r'^\s+', '', content, flags=re.MULTILINE)
+    return content
+
 def convert1(dir,destDir):
     for file in os.listdir(dir):
         filename = os.path.join(dir, file)
         print("filename:{}".format(filename))
-        with open(filename,'r') as f:
-            yml = yaml.safe_load(f)
+        with open(filename,'r', encoding='utf-8') as f:
+            content = convert_content(f.read())
             destFile = os.path.join(destDir,os.path.splitext(file)[0]) + ".list"
             print("dest file: {}".format(destFile))
-            with open(destFile,'w') as out:
-                for item in yml['payload']:
-                    out.write("{}\n".format(item))
+            with open(destFile,'w', encoding='utf-8') as out:
+                out.write(content)
 
 def main():
     parser = argparse.ArgumentParser(description="get opensea collection floor price")
@@ -41,5 +47,5 @@ if __name__ == '__main__':
     main()
 
 
-#### pip3 install pyyaml
+#### no extra dependency required
 #### python3 convert.py
