@@ -12,7 +12,15 @@ def setup_log(logfile, log_level):
     LOG_FORMAT = "%(asctime)s - %(levelname)s - %(message)s"
     DATE_FORMAT = "%Y/%m/%d %H:%M:%S"
 
-    logging.basicConfig(filename=logfile, level=LOG_LEVEL.get(log_level, logging.ERROR), format=LOG_FORMAT, datefmt=DATE_FORMAT)
+    config = {
+        'level': LOG_LEVEL.get(log_level, logging.INFO),
+        'format': LOG_FORMAT,
+        'datefmt': DATE_FORMAT,
+    }
+    if logfile:
+        config['filename'] = logfile
+
+    logging.basicConfig(**config)
 
 def convert_content(content):
     # 保持与 convert.sh 一致，直接按文本规则转换，避免 YAML 解析丢失注释
@@ -22,19 +30,26 @@ def convert_content(content):
     return content
 
 def convert1(dir,destDir):
-    for file in os.listdir(dir):
+    os.makedirs(destDir, exist_ok=True)
+
+    for file in sorted(os.listdir(dir)):
+        if not file.endswith('.yaml'):
+            continue
+
         filename = os.path.join(dir, file)
-        print("filename:{}".format(filename))
+        if not os.path.isfile(filename):
+            continue
+
         with open(filename,'r', encoding='utf-8') as f:
             content = convert_content(f.read())
             destFile = os.path.join(destDir,os.path.splitext(file)[0]) + ".list"
-            print("dest file: {}".format(destFile))
+            logging.info("converting %s to %s", filename, destFile)
             with open(destFile,'w', encoding='utf-8') as out:
                 out.write(content)
 
 def main():
     parser = argparse.ArgumentParser(description="get opensea collection floor price")
-    parser.add_argument('--log-level', help='log level,default level: warn', choices=['debug', 'info', 'warn', 'error', 'fatal'])
+    parser.add_argument('--log-level', help='log level, default level: info', choices=['debug', 'info', 'warn', 'error', 'fatal'])
     parser.add_argument('--log-file', help = 'log file')
     args = parser.parse_args()
 
