@@ -686,3 +686,6 @@ payload:
   - IP-CIDR,52.112.0.0/14
   - IP-CIDR,52.120.0.0/14
   - IP-CIDR,52.238.119.141/32
+  - DOMAIN-SUFFIX,microsoftstart.com
+  - DOMAIN-SUFFIX,start.com
+  - DOMAIN-SUFFIX,microsoftpersonalcontent.com
