@@ -20,9 +20,6 @@ payload:
   - DOMAIN,api.jetbrains.ai
   - DOMAIN,api.msn.com
   - DOMAIN,api.statsig.com
-  - DOMAIN,apple-relay.apple.com
-  - DOMAIN,apple-relay.cloudflare.com
-  - DOMAIN,apple-relay.fastly-edge.com
   - DOMAIN,assets.msn.com
   - DOMAIN,bard.google.com
   - DOMAIN,browser-intake-datadoghq.com
@@ -36,8 +33,6 @@ payload:
   - DOMAIN,gateway.bingviz.microsoftapp.net
   - DOMAIN,gemini.google.com
   - DOMAIN,generativelanguage.googleapis.com
-  - DOMAIN,gspe1-ssl.ls.apple.com
-  - DOMAIN,guzzoni.apple.com
   - DOMAIN,imagine.meta.com
   - DOMAIN,in.appcenter.ms
   - DOMAIN,jules.google.com
@@ -103,7 +98,6 @@ payload:
   - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,forwarder.workos.com
   - DOMAIN-SUFFIX,g.ai
-  - DOMAIN-SUFFIX,gateway.icloud.com
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
@@ -145,7 +139,6 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,setup.auth.openai.com
   - DOMAIN-SUFFIX,setup.workos.com
-  - DOMAIN-SUFFIX,smoot.apple.com
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,statsig.com
   - DOMAIN-SUFFIX,statsigapi.net
