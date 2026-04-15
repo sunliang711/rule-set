@@ -1,0 +1,4 @@
+payload:
+  # claude
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
