@@ -1,0 +1,17 @@
+# NAME: Gemini
+# payload:
+DOMAIN,antigravity.google
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
