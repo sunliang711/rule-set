@@ -71,7 +71,11 @@ DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,toutiaoimg.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,toutiaostatic.com
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cnblogs.com
@@ -80,7 +84,6 @@ DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,dpfile.com
