@@ -97,6 +97,9 @@ payload:
   - DOMAIN-SUFFIX,iqiyi.com
   - DOMAIN-SUFFIX,ixigua.com
   - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,360buyimg.com
+  - DOMAIN-SUFFIX,jdcloud-oss.com
+  - DOMAIN-SUFFIX,300hu.com
   - DOMAIN-SUFFIX,juejin.cn
   - DOMAIN-SUFFIX,kuaishou.cn
   - DOMAIN-SUFFIX,kuaishou.com
