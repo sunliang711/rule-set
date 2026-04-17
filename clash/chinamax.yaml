@@ -76,6 +76,8 @@ payload:
   - DOMAIN-SUFFIX,toutiaoimg.com
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,douyinpic.com
+  - DOMAIN-SUFFIX,ecombdstatic.com
+  - DOMAIN-SUFFIX,scsjsd.com
   - DOMAIN-SUFFIX,toutiaostatic.com
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,cnblogs.com
