@@ -10,7 +10,6 @@
 # TOTAL: 3642
 payload:
   - DOMAIN-SUFFIX,cn
-  - DOMAIN-SUFFIX,segment.io
 
   # 163
   - DOMAIN-SUFFIX,youdao.com
@@ -145,7 +144,6 @@ payload:
   - DOMAIN-SUFFIX,baidupcs.com
   - DOMAIN-SUFFIX,baidubcr.com
   - DOMAIN-SUFFIX,bdimg.com
-  - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,bcebos.com
 
   # Qi Niu
@@ -177,12 +175,6 @@ payload:
   - DOMAIN-SUFFIX,optaim.com
 
   # Bilibili
-  - DOMAIN-SUFFIX,bilibili.com
-  - DOMAIN-SUFFIX,bilivideo.com
-  - DOMAIN-SUFFIX,biliapi.net
-  - DOMAIN-SUFFIX,biliapi.com
-  - DOMAIN-SUFFIX,biligame.com
-  - DOMAIN-SUFFIX,hdslb.com
 
   # iqiyi
   - DOMAIN-SUFFIX,71.am
@@ -232,7 +224,6 @@ payload:
   - DOMAIN-SUFFIX,getui.com
   - DOMAIN-SUFFIX,volceapplog.com
   - DOMAIN-SUFFIX,yingwangtech.net
-  - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,umeng.com
 
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -243,15 +234,12 @@ payload:
   - DOMAIN-SUFFIX,343480.com
   - DOMAIN-SUFFIX,71.am.com
   - DOMAIN-SUFFIX,8686c.com
-  - DOMAIN-SUFFIX,acgvideo.com
   - DOMAIN-SUFFIX,aixifan.com
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,baduziyuan.com
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,beitaichufang.com
-  - DOMAIN-SUFFIX,biliapi.com
-  - DOMAIN-SUFFIX,biliapi.net
   - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,booking.com
   - DOMAIN-SUFFIX,broadcasthe.net
@@ -271,7 +259,6 @@ payload:
   - DOMAIN-SUFFIX,czybjz.com
   - DOMAIN-SUFFIX,dandanzan.com
   - DOMAIN-SUFFIX,dfcfw.com
-  - DOMAIN-SUFFIX,dingtalk.com
   - DOMAIN-SUFFIX,douban.com
   - DOMAIN-SUFFIX,doubanio.com
   - DOMAIN-SUFFIX,duokan.com
@@ -286,11 +273,9 @@ payload:
   - DOMAIN-SUFFIX,geilicdn.com
   - DOMAIN-SUFFIX,hdchina.org
   - DOMAIN-SUFFIX,hdsky.me
-  - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,hicloud.com
   - DOMAIN-SUFFIX,hitv.com
   - DOMAIN-SUFFIX,hostbuf.com
-  - DOMAIN-SUFFIX,huya.com
   - DOMAIN-SUFFIX,iciba.com
   - DOMAIN-SUFFIX,iesdouyin.com
   - DOMAIN-SUFFIX,infinitynewtab.com
@@ -332,12 +317,9 @@ payload:
   - DOMAIN-SUFFIX,open.cd
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,passthepopcorn.me
-  - DOMAIN-SUFFIX,paypal.com
-  - DOMAIN-SUFFIX,paypalobjects.com
   - DOMAIN-SUFFIX,pinyuncloud.com
   - DOMAIN-SUFFIX,pphimalayanrt.com
   - DOMAIN-SUFFIX,privatehd.to
-  - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,qbox.me
   - DOMAIN-SUFFIX,qhimg.com
   - DOMAIN-SUFFIX,qhres.com
@@ -347,20 +329,16 @@ payload:
   - DOMAIN-SUFFIX,ronghub.com
   - DOMAIN-SUFFIX,ruguoapp.com
   - DOMAIN-SUFFIX,snapdrop.net
-  - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,sspai.com
   - DOMAIN-SUFFIX,taichi-maker.com
   - DOMAIN-SUFFIX,teamviewer.com
-  - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,tianyancha.com
   - DOMAIN-SUFFIX,tjupt.org
-  - DOMAIN-SUFFIX,tmall.com
   - DOMAIN-SUFFIX,tmall.hk
   - DOMAIN-SUFFIX,tnkjmec.com
   - DOMAIN-SUFFIX,totheglory.im
-  - DOMAIN-SUFFIX,toutiao.com
   - DOMAIN-SUFFIX,udacity.com
   - DOMAIN-SUFFIX,uning.com
   - DOMAIN-SUFFIX,v-56.com
@@ -372,8 +350,6 @@ payload:
   - DOMAIN-SUFFIX,xiami.com
   - DOMAIN-SUFFIX,xiami.net
   - DOMAIN-SUFFIX,xiaomi.com
-  - DOMAIN-SUFFIX,yangkeduo.com
-  - DOMAIN-SUFFIX,ydstatic.com
   - DOMAIN-SUFFIX,zhangzishi.cc
   - DOMAIN-SUFFIX,zhuihd.com
   - DOMAIN-SUFFIX,zimuzu.io
@@ -382,5 +358,4 @@ payload:
   - DOMAIN-SUFFIX,zmzapi.com
   - DOMAIN-SUFFIX,zmzapi.net
   - DOMAIN-SUFFIX,zmzfile.com
-  - DOMAIN-SUFFIX,autonavi.com
   - DOMAIN,upos-hz-mirrorakam.akamaized.net

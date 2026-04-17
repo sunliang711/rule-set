@@ -57,7 +57,6 @@ payload:
   - DOMAIN-SUFFIX,aistudio.google.com
   - DOMAIN-SUFFIX,algolia.net
   - DOMAIN-SUFFIX,android.chat.openai.com
-  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,api.microsoftapp.net
   - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,apis.google.com
@@ -68,7 +67,6 @@ payload:
   - DOMAIN-SUFFIX,auth0.openai.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
-  - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,cdn.workos.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,chat.com
@@ -103,7 +101,6 @@ payload:
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
-  - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,grazie.ai
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,groq.com

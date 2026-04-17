@@ -31,7 +31,6 @@ payload:
   - DOMAIN-SUFFIX,aggresmart.com
   - DOMAIN-SUFFIX,aicscience.com
   - DOMAIN-SUFFIX,aka.ms
-  - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,ankarazirvesi2018.com
   - DOMAIN-SUFFIX,api-extractor.com
   - DOMAIN-SUFFIX,apihub-internal.cn
@@ -224,7 +223,6 @@ payload:
   - DOMAIN-SUFFIX,graphengine.io
   - DOMAIN-SUFFIX,groupme.com
   - DOMAIN-SUFFIX,hdinsightservices.cn
-  - DOMAIN-SUFFIX,helpshift.com
   - DOMAIN-SUFFIX,here.com
   - DOMAIN-SUFFIX,here.net
   - DOMAIN-SUFFIX,heremaps.cn
@@ -437,7 +435,6 @@ payload:
   - DOMAIN-SUFFIX,mschallenge2018.com
   - DOMAIN-SUFFIX,mschcdn.com
   - DOMAIN-SUFFIX,msdn.com
-  - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,msft.info
   - DOMAIN-SUFFIX,msft.net
@@ -622,7 +619,6 @@ payload:
   - DOMAIN-SUFFIX,visualstudio-staging.com
   - DOMAIN-SUFFIX,visualstudio.co
   - DOMAIN-SUFFIX,visualstudio.co.uk
-  - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,visualstudio.eu
   - DOMAIN-SUFFIX,visualstudio.net
   - DOMAIN-SUFFIX,vsallin.net
@@ -649,7 +645,6 @@ payload:
   - DOMAIN-SUFFIX,windowsphone-int.com
   - DOMAIN-SUFFIX,windowsphone.com
   - DOMAIN-SUFFIX,windowssearch.com
-  - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,winhec.com
   - DOMAIN-SUFFIX,winhec.net
   - DOMAIN-SUFFIX,winmp.cn
