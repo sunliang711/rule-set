@@ -66,6 +66,13 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilivideo.net
 DOMAIN-SUFFIX,bitauto.com
 DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytedanceapi.com
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,toutiaostatic.com
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,corari.com
@@ -129,7 +136,6 @@ DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tieba.com
 DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
 DOMAIN-SUFFIX,vip.com
@@ -148,7 +154,6 @@ DOMAIN-SUFFIX,yo9.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
-DOMAIN-SUFFIX,zijieapi.com
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
