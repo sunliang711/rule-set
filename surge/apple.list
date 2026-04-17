@@ -11,15 +11,11 @@
 # USER-AGENT: 23
 # TOTAL: 1616
 # payload:
-DOMAIN,apple-events.akamaized.net
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN,beatselectronicsllc.tt.omtrdc.net
-DOMAIN,e16991.b.akamaiedge.net
 DOMAIN,edge.apple
 DOMAIN,icons.axm-usercontent-apple.com
-DOMAIN,lookup-api.apple.com.edgekey.net
-DOMAIN,p-events-delivery.akamaized.net
 DOMAIN-SUFFIX,100beatscheap.com
 DOMAIN-SUFFIX,1monsterbeatsbydreus.com
 DOMAIN-SUFFIX,1to1computing.com.au
@@ -1569,8 +1565,6 @@ DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,icloud.cn
-DOMAIN,testflight.apple.com
-DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN-KEYWORD,apple-support.akadns.net
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
@@ -1578,16 +1572,16 @@ DOMAIN-KEYWORD,buy.itunes.apple.com
 DOMAIN-KEYWORD,smp-device
 DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,icloud.com.akadns.net
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR,63.92.224.0/19,no-resolve
+IP-CIDR,65.199.22.0/23,no-resolve
 IP-CIDR,139.178.128.0/18,no-resolve
 IP-CIDR,144.178.0.0/19,no-resolve
 IP-CIDR,144.178.36.0/22,no-resolve
 IP-CIDR,144.178.48.0/20,no-resolve
-IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,192.35.50.0/24,no-resolve
 IP-CIDR,198.183.17.0/24,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
-IP-CIDR,63.92.224.0/19,no-resolve
-IP-CIDR,65.199.22.0/23,no-resolve
 IP-CIDR6,2403:300::/32,no-resolve
 IP-CIDR6,2620:149::/32,no-resolve
 IP-CIDR6,2a01:b740::/32,no-resolve
