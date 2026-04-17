@@ -14,13 +14,13 @@ payload:
   - DOMAIN,h-netflix.online-metrix.net
   - DOMAIN,h-netflix.online-metrix.net,
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
-  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,
-  - DOMAIN-KEYWORD,dualstack.apiproxy-
-  - DOMAIN-KEYWORD,dualstack.apiproxy-,
-  - DOMAIN-KEYWORD,dualstack.ichnaea-web-
-  - DOMAIN-KEYWORD,dualstack.ichnaea-web-,
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+  - DOMAIN-SUFFIX,dualstack.apiproxy-
+  - DOMAIN-SUFFIX,dualstack.apiproxy-
+  - DOMAIN-SUFFIX,dualstack.ichnaea-web-
+  - DOMAIN-SUFFIX,dualstack.ichnaea-web-
   - DOMAIN-KEYWORD,netflixdnstest
-  - DOMAIN-KEYWORD,netflixdnstest,
+  - DOMAIN-KEYWORD,netflixdnstest
   - DOMAIN-SUFFIX,fast.com,
   - DOMAIN-SUFFIX,flxvpn.net
   - DOMAIN-SUFFIX,flxvpn.net,

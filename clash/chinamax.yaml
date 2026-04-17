@@ -118047,7 +118047,7 @@ payload:
   - DOMAIN-SUFFIX,weimen.hu
   - DOMAIN-SUFFIX,wuzhii.com
   - DOMAIN-SUFFIX,xiaoma.io
-  - DOMAIN-KEYWORD,.tmall.com
+  - DOMAIN-SUFFIX,tmall.com
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,aliyun

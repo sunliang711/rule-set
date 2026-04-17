@@ -851,12 +851,12 @@ DOMAIN-SUFFIX,zeetv.com
 DOMAIN-SUFFIX,zeeuk.com
 DOMAIN-SUFFIX,zeriamerikes.com
 DOMAIN-SUFFIX,zype.com
-DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN-SUFFIX,abematv.akamaized.net
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
-DOMAIN-KEYWORD,discovery.uplynk.com
-DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,discovery.uplynk.com
+DOMAIN-SUFFIX,hamivideo.cdn.hinet.net
 DOMAIN-KEYWORD,hbogoasia
 DOMAIN-KEYWORD,japonx
 DOMAIN-KEYWORD,japronx
