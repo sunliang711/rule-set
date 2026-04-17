@@ -114,7 +114,6 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,js.intercomcdn.com
-DOMAIN-SUFFIX,js.stripe.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,makersuite.google.com
@@ -141,12 +140,14 @@ DOMAIN-SUFFIX,setup.workos.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,tcr9i.chat.openai.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,workos.com
 DOMAIN-SUFFIX,workos.imgix.net
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripecdn.com
 IP-CIDR,129.146.3.78/32,no-resolve
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve

@@ -118539,7 +118539,6 @@ payload:
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
   - DOMAIN-KEYWORD,hnagroup
-  - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,qiyi
   - IP-CIDR,0.0.0.0/32
