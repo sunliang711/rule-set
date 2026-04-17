@@ -8,7 +8,10 @@ payload:
 
   - DOMAIN,antigravity-unleash.goog
   - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN,cdn.openaimerge.com
   - DOMAIN,cdn.usefathom.com
+  - DOMAIN,humb.apple.com
+  - DOMAIN,js.stripe.com
   - DOMAIN,openai-api.arkoselabs.com
   - DOMAIN,pplx-res.cloudinary.com
   - DOMAIN,static.cloudflareinsights.com

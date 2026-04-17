@@ -58,5 +58,5 @@ payload:
   - DOMAIN-SUFFIX,valvesoftware.com
   - DOMAIN-SUFFIX,wmsjsteam.com
   - DOMAIN-KEYWORD,steambroadcast
-  - DOMAIN-SUFFIX,steamstore.com
+  - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages

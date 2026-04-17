@@ -1,5 +1,6 @@
 # NAME: Cursor
 payload:
+  - DOMAIN,anysphere-binaries.s3.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,cursor-cdn.com
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
