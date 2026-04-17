@@ -7,7 +7,6 @@
 # IP-CIDR: 7
 # TOTAL: 32
 # payload:
-DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,periscope.tv

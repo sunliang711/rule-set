@@ -852,24 +852,17 @@ payload:
   - DOMAIN-SUFFIX,zeriamerikes.com
   - DOMAIN-SUFFIX,zype.com
   - DOMAIN-SUFFIX,abematv.akamaized.net
-  - DOMAIN-KEYWORD,anthropic
-  - DOMAIN-KEYWORD,avoddashs
-  - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN-SUFFIX,avoddashs.com
+  - DOMAIN-SUFFIX,bbcfmt.com
   - DOMAIN-SUFFIX,discovery.uplynk.com
   - DOMAIN-SUFFIX,hamivideo.cdn.hinet.net
-  - DOMAIN-KEYWORD,hbogoasia
-  - DOMAIN-KEYWORD,japonx
-  - DOMAIN-KEYWORD,japronx
   - DOMAIN-KEYWORD,jooxweb-api
-  - DOMAIN-KEYWORD,nivod
-  - DOMAIN-KEYWORD,nowtv100
-  - DOMAIN-KEYWORD,olevod
-  - DOMAIN-KEYWORD,rthklive
-  - DOMAIN-KEYWORD,tiktokcdn
-  - DOMAIN-KEYWORD,ttvnw
-  - DOMAIN-KEYWORD,tvbanywhere
+  - DOMAIN-SUFFIX,nivod.com
+  - DOMAIN-SUFFIX,nowtv100.com
+  - DOMAIN-SUFFIX,rthklive.com
+  - DOMAIN-SUFFIX,ttvnw.com
   - DOMAIN-KEYWORD,uk-live
-  - DOMAIN-KEYWORD,voddazn
+  - DOMAIN-SUFFIX,voddazn.com
   - IP-CIDR,1.37.35.6/32,no-resolve
   - IP-CIDR,1.201.0.0/24,no-resolve
   - IP-CIDR,8.28.124.0/23,no-resolve

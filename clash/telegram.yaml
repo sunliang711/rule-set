@@ -9,7 +9,7 @@
 # PROCESS-NAME: 4
 # TOTAL: 34
 payload:
-  - DOMAIN-KEYWORD,nicegram
+  - DOMAIN-SUFFIX,nicegram.app
   - DOMAIN-SUFFIX,comments.app
   - DOMAIN-SUFFIX,contest.com
   - DOMAIN-SUFFIX,graph.org

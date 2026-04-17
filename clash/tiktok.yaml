@@ -10,7 +10,6 @@
 payload:
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-SUFFIX,musical.ly
-  - DOMAIN-KEYWORD,tiktok
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ibyteimg.com

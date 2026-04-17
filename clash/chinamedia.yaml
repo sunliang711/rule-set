@@ -172,7 +172,7 @@ payload:
   - DOMAIN-SUFFIX,youku.org
   - DOMAIN-SUFFIX,youqoo.net
   - DOMAIN-SUFFIX,zamplus.com
-  - DOMAIN-KEYWORD,qiyi
+  - DOMAIN-SUFFIX,qiyi.com
   - USER-AGENT,*bili*
   - USER-AGENT,Bilibili*
   - USER-AGENT,bili*

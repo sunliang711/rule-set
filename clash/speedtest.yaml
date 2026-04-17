@@ -6,7 +6,7 @@
 # DOMAIN-SUFFIX: 14
 # TOTAL: 15
 payload:
-  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-SUFFIX,speedtest.com
   - DOMAIN-SUFFIX,cdnst.net
   - DOMAIN-SUFFIX,cellmaps.com
   - DOMAIN-SUFFIX,ekahau.cloud

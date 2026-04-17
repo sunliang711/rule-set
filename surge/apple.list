@@ -1570,7 +1570,7 @@ DOMAIN-SUFFIX,apple.com.akadns.net
 DOMAIN-SUFFIX,apple.com.edgekey.net
 DOMAIN-SUFFIX,buy.itunes.apple.com
 DOMAIN-KEYWORD,smp-device
-DOMAIN-KEYWORD,testflight
+DOMAIN-SUFFIX,testflight.com
 DOMAIN-SUFFIX,icloud.com.akadns.net
 IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,63.92.224.0/19,no-resolve

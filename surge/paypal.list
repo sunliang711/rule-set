@@ -6,7 +6,6 @@
 # DOMAIN-SUFFIX: 246
 # TOTAL: 247
 # payload:
-DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net
 DOMAIN-SUFFIX,account-paypal.org
