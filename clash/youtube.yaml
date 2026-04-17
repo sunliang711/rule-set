@@ -8,7 +8,6 @@
 # IP-CIDR6: 1
 # TOTAL: 182
 payload:
-  - DOMAIN-KEYWORD,youtube
   - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,googlevideo.com
