@@ -1,16 +1,14 @@
 # NAME: Microsoft
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-04-07 14:47:36
-# DOMAIN: 2
+# UPDATED: 2025-12-08 02:06:20
+# DOMAIN: 1
 # DOMAIN-KEYWORD: 4
-# DOMAIN-SUFFIX: 660
+# DOMAIN-SUFFIX: 663
 # PROCESS-NAME: 2
-# TOTAL: 668
+# TOTAL: 670
 # payload:
 DOMAIN,vsmarketplacebadge.apphb.com
-DOMAIN-SUFFIX,skydrive.com
-DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
@@ -27,6 +25,7 @@ DOMAIN-SUFFIX,adaptivecards.io
 DOMAIN-SUFFIX,aggresmart.com
 DOMAIN-SUFFIX,aicscience.com
 DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,ankarazirvesi2018.com
 DOMAIN-SUFFIX,api-extractor.com
 DOMAIN-SUFFIX,apihub-internal.cn
@@ -162,8 +161,6 @@ DOMAIN-SUFFIX,chinacloudapp.cn
 DOMAIN-SUFFIX,chinacloudsites.cn
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
-DOMAIN-SUFFIX,cn.bing.com
-DOMAIN-SUFFIX,cn.bing.net
 DOMAIN-SUFFIX,codethemicrobit.com
 DOMAIN-SUFFIX,cortana.ai
 DOMAIN-SUFFIX,cortanaanalytics.com
@@ -179,7 +176,6 @@ DOMAIN-SUFFIX,devopsassessment.net
 DOMAIN-SUFFIX,devopsms.com
 DOMAIN-SUFFIX,dictate.ms
 DOMAIN-SUFFIX,discoverbing.com
-DOMAIN-SUFFIX,ditu.live.com
 DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,doom.com
 DOMAIN-SUFFIX,dot.net
@@ -203,8 +199,6 @@ DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,forzarc.com
-DOMAIN-SUFFIX,full:bj1.api.bing.com
-DOMAIN-SUFFIX,full:emoi-cncdn.bing.com
 DOMAIN-SUFFIX,g.akamaiedge.net
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,gamesstack.com
@@ -219,6 +213,7 @@ DOMAIN-SUFFIX,gotcosmos.com
 DOMAIN-SUFFIX,graphengine.io
 DOMAIN-SUFFIX,groupme.com
 DOMAIN-SUFFIX,hdinsightservices.cn
+DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,here.com
 DOMAIN-SUFFIX,here.net
 DOMAIN-SUFFIX,heremaps.cn
@@ -256,7 +251,6 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.com.au
 DOMAIN-SUFFIX,live.eu
 DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,livetileedge.dsx.mp.microsoft.com.edgekey.net
 DOMAIN-SUFFIX,livingyourambition.com
 DOMAIN-SUFFIX,localytics.com
@@ -398,6 +392,7 @@ DOMAIN-SUFFIX,microsoftsilverlight.net
 DOMAIN-SUFFIX,microsoftsilverlight.org
 DOMAIN-SUFFIX,microsoftsiteselection.com
 DOMAIN-SUFFIX,microsoftsqlserver.com
+DOMAIN-SUFFIX,microsoftstart.com
 DOMAIN-SUFFIX,microsoftstore.com
 DOMAIN-SUFFIX,microsoftstore.com.cn
 DOMAIN-SUFFIX,microsoftstore.com.hk
@@ -431,6 +426,7 @@ DOMAIN-SUFFIX,msauthimages.net
 DOMAIN-SUFFIX,mschallenge2018.com
 DOMAIN-SUFFIX,mschcdn.com
 DOMAIN-SUFFIX,msdn.com
+DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,msft.info
 DOMAIN-SUFFIX,msft.net
@@ -509,7 +505,6 @@ DOMAIN-SUFFIX,omniroot.com
 DOMAIN-SUFFIX,onecollector.cloudapp.aria
 DOMAIN-SUFFIX,onedrive.co
 DOMAIN-SUFFIX,onedrive.co.uk
-DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onedrive.eu
 DOMAIN-SUFFIX,onedrive.net
 DOMAIN-SUFFIX,onedrive.org
@@ -565,8 +560,6 @@ DOMAIN-SUFFIX,sfbassets.com
 DOMAIN-SUFFIX,sfbassets.net
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,sharepoint.cn
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,sharepointonline.com
 DOMAIN-SUFFIX,signalr.net
 DOMAIN-SUFFIX,skype
 DOMAIN-SUFFIX,skype.com
@@ -574,10 +567,10 @@ DOMAIN-SUFFIX,skype.net
 DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeassets.net
 DOMAIN-SUFFIX,skypeforbusiness.com
-DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,sprinklesapp.com
 DOMAIN-SUFFIX,sqlserveronlinux.com
 DOMAIN-SUFFIX,staffhub.ms
+DOMAIN-SUFFIX,start.com
 DOMAIN-SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net
 DOMAIN-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net
@@ -615,6 +608,7 @@ DOMAIN-SUFFIX,virtualearth.net
 DOMAIN-SUFFIX,visualstudio-staging.com
 DOMAIN-SUFFIX,visualstudio.co
 DOMAIN-SUFFIX,visualstudio.co.uk
+DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,visualstudio.eu
 DOMAIN-SUFFIX,visualstudio.net
 DOMAIN-SUFFIX,vsallin.net
@@ -641,6 +635,7 @@ DOMAIN-SUFFIX,windowsmarketplace.com
 DOMAIN-SUFFIX,windowsphone-int.com
 DOMAIN-SUFFIX,windowsphone.com
 DOMAIN-SUFFIX,windowssearch.com
+DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,winhec.com
 DOMAIN-SUFFIX,winhec.net
 DOMAIN-SUFFIX,winmp.cn
@@ -648,7 +643,6 @@ DOMAIN-SUFFIX,wlxrs.com
 DOMAIN-SUFFIX,working-bing-int.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,xamarin.com
-DOMAIN-SUFFIX,xbox.cn
 DOMAIN-SUFFIX,xbox.co
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xbox.eu
@@ -671,12 +665,16 @@ DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
-# https://answers.microsoft.com/en-us/msteams/forum/all/microsoft-teams-ipports/b21fb0e0-1226-4bcf-b527-92c810bc7a87
-# teams messaging
-DOMAIN-SUFFIX,microsoftstart.com
-DOMAIN-SUFFIX,start.com
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,microsoftpersonalcontent.com
-IP-CIDR,13.107.64.0/18,no-resolve
-IP-CIDR,52.112.0.0/14,no-resolve
-IP-CIDR,52.120.0.0/14,no-resolve
-IP-CIDR,52.238.119.141/32,no-resolve
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-KEYWORD,microsoft
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater
