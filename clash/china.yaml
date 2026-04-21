@@ -1,4 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-KEYWORD,qq.com
-  - GEOIP,CN
