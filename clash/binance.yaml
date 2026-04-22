@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,binance.cloud
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,binance.info
   - DOMAIN-SUFFIX,binancecnt.com
   - DOMAIN-SUFFIX,binancefuture.com
   - DOMAIN-SUFFIX,bnappzh.co
