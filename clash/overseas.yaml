@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,zoom.com
   - DOMAIN-SUFFIX,zoom.us
   - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN-SUFFIX,polymarket.com
   - DOMAIN-KEYWORD,1drv
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,abema
