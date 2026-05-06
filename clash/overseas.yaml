@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,tproxy.opendle.com
 # zoom
 # https://support.zoom.us/hc/en-us/articles/201362683-Zoom-network-firewall-or-proxy-server-settings
+  - DOMAIN-SUFFIX,figma.com
   - DOMAIN,zdmapi.zoom.us
   - DOMAIN-SUFFIX,zoom.com
   - DOMAIN-SUFFIX,zoom.us
