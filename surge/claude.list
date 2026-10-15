@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
+PROCESS-NAME,Claude
+PROCESS-NAME,claude
+PROCESS-NAME,Claude Helper
