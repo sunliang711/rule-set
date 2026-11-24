@@ -890,3 +890,8 @@ payload:
   - PROCESS-NAME,com.google.android.gsf
   - PROCESS-NAME,com.google.android.play.games
   - PROCESS-NAME,BackupandSync
+  - PROCESS-NAME,language_server
+  - PROCESS-NAME,Gemini
+  - PROCESS-NAME,gemini
+  - PROCESS-NAME,Antigravity
+  - PROCESS-NAME,antigravity
